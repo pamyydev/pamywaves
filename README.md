@@ -44,7 +44,7 @@ This project serves as an excellent portfolio piece, showcasing expertise in rep
    cd pamywaves
    ```
 3. Open with Live Server to view the output.
-4. 
+   
 ## 🔧 Development Notes
 - **Code Structure:**
   - `src/`: Contains all source files including HTML, CSS, and JavaScript.
