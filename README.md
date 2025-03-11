@@ -37,7 +37,7 @@ This project serves as an excellent portfolio piece, showcasing expertise in rep
 ## 🛠️ Setup & Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pamyy_dev/pamywaves.git
+   git clone https://github.com/pamyydev/pamywaves.git
    ```
 2. Navigate to the project directory:
    ```bash
